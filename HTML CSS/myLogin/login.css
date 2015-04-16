@@ -1,0 +1,34 @@
+.center {
+  background-color:#7CB9E8;
+  margin:10%;
+  margin-left: auto ;
+  margin-right: auto ;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+  vertical-align: left;
+  line-height: 30px;
+  border-radius: 25px;
+  width: 200px; 
+
+}
+
+input[type=submit] {
+    width: 173px; 
+}
+
+input[type=checkbox]{
+  align:left;
+}
+
+h1{
+  font-family: "Trebuchet MS", Times, serif;
+}
+
+
+body {
+  background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/cloudy-stars.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+}
